@@ -1,0 +1,355 @@
+"UserLocalConfigStore"
+{
+	"Broadcast"
+	{
+		"Permissions"		"1"
+	}
+	"streaming_v2"
+	{
+		"EnableStreaming"		"1"
+		"DefaultAudioDevice"		"{0.0.0.00000000}.{c425a46d-0ea4-46e8-bca8-0f8534a3dad9}"
+		"DefaultAudioDeviceName"		"Alto-falantes (3- High Definition Audio Device)"
+		"DefaultMicrophone"		"{0.0.1.00000000}.{7692b372-0819-41c4-8c71-316a39067aeb}"
+		"DefaultMicrophoneName"		"Microphone (3- High Definition Audio Device)"
+	}
+	"friends"
+	{
+		"1223846330"
+		{
+			"NameHistory"
+			{
+				"0"		"espanta xota"
+			}
+			"avatar"		"7ba317c9c1b44f44faf289017013ea79a12dae5d"
+			"name"		"espanta xota"
+		}
+		"PersonaName"		"espanta xota"
+		"communitypreferences"		"18002000280130013800"
+		"contentdescriptorpreferences"		"0a0208010a0208030a020804"
+		"99088112"
+		{
+			"name"		"Glatrios"
+			"NameHistory"
+			{
+				"0"		"Glatrios"
+			}
+			"avatar"		"e61b6d6c317eea531b4b6ad3ac79be64ccd4f204"
+		}
+		"883860287"
+		{
+			"name"		"ruijr1985"
+			"NameHistory"
+			{
+				"0"		"ruijr1985"
+			}
+			"avatar"		"ee0e6adb9c075b0b40cbedba2f8699d1c040ca6c"
+		}
+		"1033369093"
+		{
+			"name"		"Marcelo"
+			"NameHistory"
+			{
+				"0"		"Marcelo"
+			}
+			"avatar"		"e38909caeeecc61779810d08775370c154c14a8b"
+		}
+		"229602529"
+		{
+			"name"		"P1xys"
+			"NameHistory"
+			{
+				"0"		"P1xys"
+			}
+			"avatar"		"03dd57ee9fc5d50642aaa5793ee44eed947345d6"
+		}
+		"150745880"
+		{
+			"name"		"Lucão"
+			"NameHistory"
+			{
+				"0"		"Lucão"
+			}
+			"avatar"		"afc451eb9da8bb00896594be258802103217ee8b"
+		}
+		"889282129"
+		{
+			"name"		"Jarak"
+			"NameHistory"
+			{
+				"0"		"Jarak"
+			}
+			"avatar"		"71a32a8a4e6aaa88d1198ea6f9538d5bafa1b98f"
+		}
+		"1107110822"
+		{
+			"name"		"Rukka"
+			"NameHistory"
+			{
+				"0"		"Rukka"
+			}
+			"avatar"		"378b5afd27232e0b6de93054ec29a26c23b548b6"
+		}
+		"235020547"
+		{
+			"name"		"wcmF"
+			"NameHistory"
+			{
+				"0"		"wcmF"
+			}
+			"avatar"		"405fb59f865c2638656394a433b79fece3b58a34"
+		}
+		"1043881404"
+		{
+			"name"		"✪ ioNe"
+			"NameHistory"
+			{
+				"0"		"✪ ioNe"
+			}
+			"avatar"		"7dc966eb2bceb394803c218f0137830db00ee6ba"
+		}
+		"1107699085"
+		{
+			"name"		"✪ E N D ✪"
+			"NameHistory"
+			{
+				"0"		"✪ E N D ✪"
+			}
+			"avatar"		"148ff422f2245ab66abfeabf3f7506861d6b703b"
+		}
+	}
+	"SharedAuth"
+	{
+		"id"		"1136086966"
+		"AuthData"		"bac2843573d4dd66af43916346dc3f247fa81ca415dd7e018f4a28e2fcbf8680"
+	}
+	"Offline"
+	{
+		"Ticket"		"08bad3c9c70415f6fe0e67"
+		"Signature"		"373c7a8fa665a67d003e543517298244e503585bc6ccf4fc82aed441d390aac0ec1c6e06c28d712f5e78decae76d3b6132c3ff6b91261deaad759ce3427f008e2fb42129fc169ed25f61bb9c13a8e9ecb57ea0d29b98a22717b98d527608ba85d2a3d7ceb71a80b8f6f9467c46d468931747d44cf218c005ffbee0d21b6f8aa513807a9d9c4420df45a7bfc42489755ab00bb6083d60f0c83781a72ccab71b56b9d494b074034320cd01bdb529912080d19932bc0378cda00cbb16eb2650e76d75a27ce2fc4fa0d1e45a1bfb7a326e7bad930872133ea8be1dc76d82436049d71d4efdaff6702a851f90bf24136fa88686fc44492c727f5cae6c11a4f9f88821"
+		"EncryptedTicket"		"0a209abae1211177905c2c9324bc61fb71a09abc36e96109dee01146f19b4a297561128002373c7a8fa665a67d003e543517298244e503585bc6ccf4fc82aed441d390aac0ec1c6e06c28d712f5e78decae76d3b6132c3ff6b91261deaad759ce3427f008e2fb42129fc169ed25f61bb9c13a8e9ecb57ea0d29b98a22717b98d527608ba85d2a3d7ceb71a80b8f6f9467c46d468931747d44cf218c005ffbee0d21b6f8aa513807a9d9c4420df45a7bfc42489755ab00bb6083d60f0c83781a72ccab71b56b9d494b074034320cd01bdb529912080d19932bc0378cda00cbb16eb2650e76d75a27ce2fc4fa0d1e45a1bfb7a326e7bad930872133ea8be1dc76d82436049d71d4efdaff6702a851f90bf24136fa88686fc44492c727f5cae6c11a4f9f8882118062208516fced24905df1128043208d69d7488a9ed8443"
+		"EncryptedSignature"		"373c7a8fa665a67d003e543517298244e503585bc6ccf4fc82aed441d390aac0ec1c6e06c28d712f5e78decae76d3b6132c3ff6b91261deaad759ce3427f008e2fb42129fc169ed25f61bb9c13a8e9ecb57ea0d29b98a22717b98d527608ba85d2a3d7ceb71a80b8f6f9467c46d468931747d44cf218c005ffbee0d21b6f8aa513807a9d9c4420df45a7bfc42489755ab00bb6083d60f0c83781a72ccab71b56b9d494b074034320cd01bdb529912080d19932bc0378cda00cbb16eb2650e76d75a27ce2fc4fa0d1e45a1bfb7a326e7bad930872133ea8be1dc76d82436049d71d4efdaff6702a851f90bf24136fa88686fc44492c727f5cae6c11a4f9f88821"
+	}
+	"ParentalSettings"
+	{
+		"settings"		"09ba69f248000000004800"
+		"Signature"		"8b058323d5a66bcdd64458ba92a343bf8bf1721392ac4e8507f776bd54dca57c16e9d0cd1da3f42d8f4d24772b0881f62562b98750b9f2b3865bf2f67b067a240265cf1c921bf5d6a7adf3d4e8316f8ecdd893769ef8a4af1e1ef40f819fc849c67dcb7600f822898c5072485643bbda4c5998ed2c0e0994fcedba22b826846683485b15a6fe86e591f152617177517ca16020a7101d0c1d7246eaf10de1ecb4bed4444adad98bbe0a80579cd17d39c5fa6e2737bc8810fb3bc49850da5f887595f3d1744ff2a092cab0f39d4883c92ed5f73e80e4319dad7e52301e2bae41da04a91fd8a9216b2792c026694fd8a880b06dcc33281b0c13161cb1c8693b8d03"
+	}
+	"apptickets"
+	{
+		"7"		"3200000004000000ba69f2480100100107000000aa0388b14b01a8c0000000007ffb0e67ffaa2a6701000000000000000000526b2b06e06bcdcfae295ae891eeeff9467dc361b11aaeb296910d92f79669e8809284caa6ddf18e85d765f2a01f6883f70061efc0b065e64609ed16a1432fbe6ae76360c98e9ecacb6633a152fe82b4aba67239fbfdbcf05731fb0c13989b11a2e08c4b7ca4fdfc067037d0c54e57311c3d46c57e859ff83bc6731461e0cc9f"
+		"431960"		"3800000004000000ba69f2480100100158970600aa0388b14b01a8c00000000041fc0e67c1ab2a670100b75e0100010016511b00000000000f571b1a6708b1c257f803570f093401d8440ab55a1316f1c72ec3ed13ac4c1f8c8aca8ffc280370897d658236c7a3da96c56cd18a3eaff4e97da0a9c342879a968d2227ea5773af0c30472a93381b59ad9eff96d209022036f13d469309435bc04aca5bd1f710823e27d383345d1f14fc088ff4e653f6df203cd845048bc36b"
+		"730"		"4400000004000000ba69f24801001001da020000aa0388b14b01a8c00000000076fd0e67f6ac2a6701000dd300000300b4880900000028c92200000029c92200000000003ce88f26640730d278fdacbb1b1a46f7ca3d8a16c20fb477a55a8bc1312e840fdf85ee95149779263dda747b130f565b4bcd9afa2d8b101b75f5390dc0dd3a348e6d54d9c7b5aa6995a936d725359bc44ae68b21b7962a70cab29fe241e576f6b3ca9d9f6309e626c813d5152816f08a4fb9872adc65d3f24259031333bdd409"
+		"2279720"		"3200000004000000ba69f2480100100128c92200aa0388b14b01a8c000000000f6fe0e6776ae2a6701000dd3000000000000688a652ce81ea85c7b242b603e607226dc4e1a0c267b39f06750f0169c86d10a4111216d7cef38fb7a11bc7f2ddfa1316f824aab2057b16a9a9ebca180d61c1b03f828f939f445d312d581aa0f0f2a282d32f2df631a1c12ec5556cf3489454445b40a504d17a221c3ce782a0047a4bec68ecae1ea48bd5b143015eec1ef20e5"
+		"2279721"		"3200000004000000ba69f2480100100129c92200aa0388b14b01a8c000000000f6fe0e6776ae2a6701000dd3000000000000d3e64ec497dee72f154e94c3cee201db06659280b7705e8ab61f69aa62f6e374ad4ed0d3d2e1f7cb39fe46267d966edf0611b8a46dc5dd61ef57a4adc8e7080d3c790049c4c2968605eb5e23b4dd11c7c08e65e9c0c5d5f513ed0ac1ae3f11df4edf62a5693be7ff5683657036cd4cdeee3a037403bbe12750fbb77aef8cd548"
+		"228980"		"3200000004000000ba69f24801001001747e0300aa0388b14b01a8c000000000f6fe0e6776ae2a6701000000000000000000bf3984c752f3d943463461308a7aba3e0d9b157f19be0bc9c7678f7a11f2b6d9eb445bf44e292e29293d1e0a58ee1da7296d437f25cabe0068c3a5cd72700fa4b227bf2b5d23f218b847dcb15f2e55ba0deb0598c3c3a296494d4535209e9a03a30b7138a2c6b8f47d62f25f759f3b0bdad8c4a787706dc91948246d0808f42e"
+		"1790230"		"3200000004000000ba69f2480100100116511b00aa0388b14b01a8c000000000f6fe0e6776ae2a670100b75e01000000000005e5f350431bdc7d1a2f8a48381f154939f102669358eb20f7c389ffe746591f56b5ce3687f548d53378050121b9434b5eaa6ff0950086540bcdeaced55ef3acbc2225fb2c65952228469c3232e51708f11c5fc59f1a556294075d755739b0c38ad5a4408d88b2b4be0b166d2adb014e7c6b0581b65a9ce17d09e9e4f2ce4d78"
+	}
+	"AppInfoChangeNumber"		"25737189"
+	"CloudKey"		"010000000bdf4aab4893be37f563aaeb059080feed17e5326d4d7283bdb6d5c79f4176b94714b0d6"
+	"CloudKeyCRC"		"102248931"
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"apps"
+				{
+					"7"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"480"
+					{
+						"LastPlayed"		"1728769135"
+						"Playtime2wks"		"397"
+						"playtime"		"2301"
+					}
+					"550"
+					{
+						"LastPlayed"		"1720391836"
+						"playtime"		"186"
+					}
+					"730"
+					{
+						"LastPlayed"		"1729035637"
+						"Playtime2wks"		"40"
+						"playtime"		"4411"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+					"291480"
+					{
+						"LastPlayed"		"1651929972"
+						"playtime"		"46"
+					}
+					"291550"
+					{
+						"LastPlayed"		"1726879198"
+						"playtime"		"11892"
+						"PlaytimeDisconnected"		"1"
+					}
+					"324810"
+					{
+						"LastPlayed"		"1633976295"
+						"playtime"		"32"
+					}
+					"431960"
+					{
+						"LastPlayed"		"1729035872"
+						"playtime"		"132"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+						"autocloud"
+						{
+							"lastlaunch"		"1729035697"
+							"lastexit"		"1729035872"
+						}
+						"BadgeData"		"020000000804"
+						"Playtime2wks"		"1"
+					}
+					"444090"
+					{
+						"LastPlayed"		"1658569502"
+						"playtime"		"550"
+					}
+					"607260"
+					{
+						"LastPlayed"		"1716823540"
+						"playtime"		"2"
+					}
+					"633230"
+					{
+						"LastPlayed"		"1714917213"
+						"playtime"		"698"
+					}
+					"714010"
+					{
+						"LastPlayed"		"1650821602"
+						"playtime"		"90"
+					}
+					"843380"
+					{
+						"LastPlayed"		"1656028082"
+						"playtime"		"131"
+					}
+					"960090"
+					{
+						"LastPlayed"		"1720706331"
+						"playtime"		"371"
+					}
+					"1172470"
+					{
+						"LastPlayed"		"1657891128"
+						"playtime"		"11"
+					}
+					"1271710"
+					{
+						"LastPlayed"		"1652664183"
+						"playtime"		"59"
+					}
+					"1276390"
+					{
+						"LastPlayed"		"1655901407"
+						"playtime"		"6"
+					}
+					"1454400"
+					{
+						"LastPlayed"		"1716856077"
+						"playtime"		"42"
+					}
+					"1568590"
+					{
+						"LastPlayed"		"1723697880"
+						"playtime"		"344"
+					}
+					"1665460"
+					{
+						"LastPlayed"		"1651939289"
+						"playtime"		"2"
+					}
+					"1677740"
+					{
+						"LastPlayed"		"1656813355"
+						"playtime"		"111"
+					}
+					"1782210"
+					{
+						"LastPlayed"		"1715392779"
+						"playtime"		"254"
+					}
+					"1818750"
+					{
+						"LastPlayed"		"1716932394"
+						"playtime"		"80"
+					}
+					"1891700"
+					{
+						"LastPlayed"		"1670033060"
+						"playtime"		"170"
+					}
+					"2195250"
+					{
+						"LastPlayed"		"1705767149"
+						"playtime"		"2"
+					}
+					"2357570"
+					{
+						"LastPlayed"		"1724555834"
+						"playtime"		"868"
+					}
+					"2524680"
+					{
+						"LastPlayed"		"1714498648"
+						"playtime"		"106"
+					}
+					"1422450"
+					{
+						"LastPlayed"		"1725842544"
+						"playtime"		"176"
+					}
+					"1938090"
+					{
+						"LastPlayed"		"1727511185"
+						"playtime"		"1050"
+					}
+					"760"
+					{
+						"cloud"
+						{
+							"quota_bytes"		"20000000000"
+							"quota_files"		"50000"
+							"used_bytes"		"543990"
+							"used_files"		"4"
+						}
+					}
+					"2371090"
+					{
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
+					}
+				}
+				"LastPlayedTimesSyncTime"		"1728769135"
+				"SmallMode"		"0"
+				"PlayerLevel"		"4"
+			}
+		}
+	}
+	"CloudManager"
+	{
+		"HintAppsToPreload"		""
+	}
+	"FavoriteServersLastUpdateTime"		"1729033561"
+	"WebStorage"
+	{
+		"SteamVoiceSettings_1223846330"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
+		"LocalizedTagNames_brazilian"		"{\"version_hash\":\"3146898459\",\"tags\":[{\"tagid\":9,\"name\":\"Estratégia\"},{\"tagid\":19,\"name\":\"Ação\"},{\"tagid\":21,\"name\":\"Aventura\"},{\"tagid\":84,\"name\":\"Design e Ilustração\"},{\"tagid\":87,\"name\":\"Utilitários\"},{\"tagid\":113,\"name\":\"Gratuito para Jogar\"},{\"tagid\":122,\"name\":\"RPG\"},{\"tagid\":128,\"name\":\"Multijogador Massivo\"},{\"tagid\":492,\"name\":\"Indie\"},{\"tagid\":493,\"name\":\"Acesso Antecipado\"},{\"tagid\":597,\"name\":\"Casual\"},{\"tagid\":599,\"name\":\"Simulação\"},{\"tagid\":699,\"name\":\"Corrida\"},{\"tagid\":701,\"name\":\"Esportes\"},{\"tagid\":784,\"name\":\"Produção de Vídeo\"},{\"tagid\":809,\"name\":\"Edição de Fotos\"},{\"tagid\":872,\"name\":\"Animação e Modelagem\"},{\"tagid\":1027,\"name\":\"Produção de Áudio\"},{\"tagid\":1036,\"name\":\"Educativo\"},{\"tagid\":1038,\"name\":\"Publicação na Web\"},{\"tagid\":1445,\"name\":\"Software de Treinamento\"},{\"tagid\":1616,\"name\":\"Trens\"},{\"tagid\":1621,\"name\":\"Música\"},{\"tagid\":1625,\"name\":\"Plataforma\"},{\"tagid\":1628,\"name\":\"Metroidvania\"},{\"tagid\":1638,\"name\":\"Cachorros\"},{\"tagid\":1643,\"name\":\"Construção\"},{\"tagid\":1644,\"name\":\"Direção\"},{\"tagid\":1645,\"name\":\"Defesa de Torres\"},{\"tagid\":1646,\"name\":\"Hack and Slash\"},{\"tagid\":1647,\"name\":\"Velho Oeste\"},{\"tagid\":1649,\"name\":\"Game Maker\"},{\"tagid\":1651,\"name\":\"Sátira\"},{\"tagid\":1654,\"name\":\"Relaxante\"},{\"tagid\":1659,\"name\":\"Zumbis\"},{\"tagid\":1662,\"name\":\"Sobrevivência \"},{\"tagid\":1663,\"name\":\"Tiro em Primeira Pessoa (FPS)\"},{\"tagid\":1664,\"name\":\"Quebra-Cabeça\"},{\"tagid\":1665,\"name\":\"Combinar 3\"},{\"tagid\":1666,\"name\":\"Cartas\"},{\"tagid\":1667,\"name\":\"Terror\"},{\"tagid\":1669,\"name\":\"Compatível com Mods\"},{\"tagid\":1670,\"name\":\"4X\"},{\"tagid\":1671,\"name\":\"Super-Heróis\"},{\"tagid\":1673,\"name\":\"Alienígenas\"},{\"tagid\":1674,\"name\":\"Digitação\"},{\"tagid\":1676,\"name\":\"Estratégia em Tempo Real (RTS)\"},{\"tagid\":1677,\"name\":\"Em Turnos\"},{\"tagid\":1678,\"name\":\"Guerra\"},{\"tagid\":1680,\"name\":\"Assalto\"},{\"tagid\":1681,\"name\":\"Piratas\"},{\"tagid\":1684,\"name\":\"Fantasia\"},{\"tagid\":1685,\"name\":\"Cooperativo\"},{\"tagid\":1687,\"name\":\"Furtivo\"},{\"tagid\":1688,\"name\":\"Ninja\"},{\"tagid\":1693,\"name\":\"Clássico\"},{\"tagid\":1695,\"name\":\"Mundo Aberto\"},{\"tagid\":1697,\"name\":\"Terceira Pessoa\"},{\"tagid\":1698,\"name\":\"Apontar e Clicar\"},{\"tagid\":1702,\"name\":\"Fabricação\"},{\"tagid\":1708,\"name\":\"Tático\"},{\"tagid\":1710,\"name\":\"Surrealista\"},{\"tagid\":1714,\"name\":\"Psicodélico\"},{\"tagid\":1716,\"name\":\"Roguelike\"},{\"tagid\":1717,\"name\":\"Grade Hexagonal\"},{\"tagid\":1718,\"name\":\"MOBA\"},{\"tagid\":1719,\"name\":\"Comédia\"},{\"tagid\":1720,\"name\":\"Explorador de Calabouços\"},{\"tagid\":1721,\"name\":\"Terror Psicológico\"},{\"tagid\":1723,\"name\":\"Estratégia em Tempo Real com Ação\"},{\"tagid\":1730,\"name\":\"Sokoban\"},{\"tagid\":1732,\"name\":\"Voxel\"},{\"tagid\":1733,\"name\":\"Impiedoso\"},{\"tagid\":1734,\"name\":\"Ritmo Rápido\"},{\"tagid\":1736,\"name\":\"LEGO\"},{\"tagid\":1738,\"name\":\"Objetos Ocultos\"},{\"tagid\":1741,\"name\":\"Estratégia em Turnos\"},{\"tagid\":1742,\"name\":\"Boa Trama\"},{\"tagid\":1743,\"name\":\"Luta\"},{\"tagid\":1746,\"name\":\"Basquete\"},{\"tagid\":1751,\"name\":\"História em Quadrinhos\"},{\"tagid\":1752,\"name\":\"Ritmo\"},{\"tagid\":1753,\"name\":\"Skate\"},{\"tagid\":1754,\"name\":\"MMORPG\"},{\"tagid\":1755,\"name\":\"Espacial\"},{\"tagid\":1756,\"name\":\"Trilha Sonora Boa\"},{\"tagid\":1759,\"name\":\"Morte Permanente\"},{\"tagid\":1770,\"name\":\"Jogo de Tabuleiro\"},{\"tagid\":1773,\"name\":\"Arcade\"},{\"tagid\":1774,\"name\":\"Tiro\"},{\"tagid\":1775,\"name\":\"Jogador x Jogador (PvP)\"},{\"tagid\":1777,\"name\":\"Steampunk\"},{\"tagid\":3796,\"name\":\"Baseado em um Romance\"},{\"tagid\":3798,\"name\":\"Câmera Lateral\"},{\"tagid\":3799,\"name\":\"Romance Visual\"},{\"tagid\":3810,\"name\":\"Faça o que Quiser\"
