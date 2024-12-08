@@ -82,6 +82,7 @@ section.imagem > p{
     background-color: rgba(0, 0, 0, 0.326);
     width: 400px;
     text-shadow: 1px 1px 0px black;
+    padding-left: 15px;
 }
 
 section#imagem01{
