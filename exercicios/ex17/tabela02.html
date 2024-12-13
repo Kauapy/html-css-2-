@@ -12,6 +12,7 @@
     <h2>Dados de 2020</h2>
     <!--Anatomia para tabelas grandes
         TABLE
+            CAPTION
             THEAD
                 tr,td,th
             TBODY
@@ -20,11 +21,12 @@
                 tr,td,th
     -->
     <table>
+        <caption>População das Unidades Federativas</caption>
         <thead>
             <tr>
-                <th>Posição</th>
-                <th>Estado</th>
-                <th>População</th>
+                <th scope="col">Posição</th>
+                <th scope="col">Estado</th>
+                <th scope="col">População</th>
             </tr>
         </thead>
         <tbody>
@@ -43,11 +45,42 @@
                 <td>Rio de Janeiro</td>
                 <td>17.264.943</td>
             </tr>
+            <tr>
+                <td>4</td>
+                <td>Amapá</td>
+                <td>45.919.049</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>Amazonas</td>
+                <td>21.168.791</td>
+            </tr>
+            <tr>
+                <td>6</td>
+                <td>Rio Grande do Sul</td>
+                <td>17.264.943</td>
+            </tr>
+            <tr>
+                <td>7</td>
+                <td>Bahia</td>
+                <td>33.859.000</td>
+            </tr>
+            <tr>
+                <td>8</td>
+                <td>Recife</td>
+                <td>21.168.791</td>
+            </tr>
+            <tr>
+                <td>9</td>
+                <td>Santa Catarina</td>
+                <td>17.264.943</td>
+            </tr>
         </tbody>
+            
         <tfoot>
             <tr>
-                <th>Total de Habitantes</th>
-                <td><strong>84.352.783</strong></td>
+                <th scope="row">Total de Habitantes</th>
+                <td colspan="2"><strong>290.946.785</strong></td>
             </tr>
         </tfoot>
     </table>
