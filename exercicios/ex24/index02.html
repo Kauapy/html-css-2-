@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="script.js" method="post" autocomplete="on">
+      <p>
+        <label for="iusu">Usuário: </label>
+        <input type="text" name="usu" id="iusu" required maxlength="12" size="11" placeholder="Digite seu usuário" autocomplete="username"/>
+      </p>
+      <p>
+        <label for="isen">Senha: </label>
+        <input type="password" name="sen" id="isen" required minlength="3" maxlength="8" size="10" placeholder="Digite sua senha" autocomplete="new-password"/>
+      </p>
+      <p>
+        <input type="submit" value="Enviar" />
+        <input type="reset" value="Reset"/>
+      </p>
+    </form>
+    <script src="script.js"></script>
+  </body>
+</html>
