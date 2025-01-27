@@ -1,18 +1,26 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Formulário</title>
-</head>
-<body>
+  </head>
+  <body>
     <h1>Primeiro formulário</h1>
-    <form action="cadastro.php" autocomplete="off">
+    <form action="script.js" autocomplete="off">
+      <p>
+        <label for="knome">Nome:</label>
+        <input type="text" name="name" id="knome" />
+      </p>
 
-        <p><label for="knome">Nome:</label> <input type="text" name="name" id="knome">
+      <p>
+        <label for="kSobrenome">Sobrenome:</label>
+        <input type="text" name="Sobrenome" id="kSobrenome" />
+      </p>
 
-        <p><label for="kSobrenome">Sobrenome:</label> <input type="text" name="Sobrenome" id="kSobrenome">  
+      <p><input type="submit" value="Enviar" /></p>
     </form>
-    
-</body>
+
+    <script src="script.js" ></script>
+  </body>
 </html>
